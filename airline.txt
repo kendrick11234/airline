@@ -1,0 +1,13 @@
+airline reservation system
+
+1)As a receptionist I want to take in customer details so that I can keep them in records.
+
+
+
+2)  As air hostress i want to see that every passenger is well served so that they can give us good ratings.
+
+
+
+
+
+3) As manager i wnt to see all my employess working effienciently so that i can give them promotion and good bonus.
